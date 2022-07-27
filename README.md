@@ -20,6 +20,9 @@ Pada repositori ini kami mencoba mengumpulkan proyek-proyek hasil eksplorasi yan
 2. Memperoleh gambaran end-to-end bagaimana proses OCR invoice dapat dilakukan pada eksplorasi tahap ketiga: OCR_1_Keras_OCR.ipynb
 3. Wawasan gambaran utuh perkiraan hasil dapat dicapai, walaupun masih menggunakan pre-trained model. Hal ini tentu bukan capaian akhir yang harus diserahkan karena belum sesuai dengan ketentuan dan spesifikasi yang diusulkan pada proposal. Namun, setidaknya memberikan gambaran hal-hal apa saja yang telah dilakukan dengan menyediakan catatan hasil eksplorasi.
 
+## Presentasi
+Tautan Video Presentasi: https://youtu.be/i-FWjF3Hknc 
+
 ## Referensi
 https://www.kaggle.com/code/manishthem/entity-recognition-for-ocr-using-text-data-xml
 https://www.kaggle.com/code/manishthem/entity-recognition-for-ocr-using-text-data-xml/data
