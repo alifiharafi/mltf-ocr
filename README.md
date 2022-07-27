@@ -1,5 +1,6 @@
 # Proyek mltf-ocr
-Machine Learning with TensorFlow - OCR (Optical Character Recognition)
+Machine Learning with TensorFlow - OCR (Optical Character Recognition).
+Repositori ini bertujuan untuk menyediakan deliverables Demo Day pada kegiatan pelatihan DTS Machine Learning with TensorFlow 2022.
 
 ## Intro
 Kelompok OCR_1 masih memiliki pemahaman yang terbatas untuk kasus OCR, sehingga perlu dilakukan eksplorasi terlebih dahulu untuk bisa memahami proses end-to-end mulai dari persiapan dataset, sampai dengan memperoleh hasilnya. Aktivitas yang dilakukan saat ini masih dominan melakukan eksplorasi proyek-proyek terkait yang telah ada, sehingga belum menghasilkan proyek sesuai dengan spesifikasi yang diajukan pada proposal.
